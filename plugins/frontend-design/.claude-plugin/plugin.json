@@ -1,0 +1,6 @@
+{
+  "name": "frontend-design",
+  "description": "Anthropic's frontend-design skill: distinctive, non-templated web UI.",
+  "repository": "https://github.com/anthropics/claude-plugins-official",
+  "license": "Apache-2.0"
+}

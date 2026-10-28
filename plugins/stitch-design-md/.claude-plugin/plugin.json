@@ -1,0 +1,6 @@
+{
+  "name": "stitch-design-md",
+  "description": "Google Stitch skills: DESIGN.md generation/extraction, taste-design, design systems, React/shadcn/React Native builds. Several need the Stitch MCP server.",
+  "repository": "https://github.com/google-labs-code/stitch-skills",
+  "license": "Apache-2.0"
+}

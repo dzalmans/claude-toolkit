@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-toolkit": {
+      "source": { "source": "github", "repo": "dzalmans/claude-toolkit" }
+    }
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-toolkit": true,
+    "hallmark@claude-toolkit": true,
+    "humanizer@claude-toolkit": true,
+    "agent-skills@claude-toolkit": true
+  }
+}

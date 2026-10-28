@@ -1,0 +1,121 @@
+{
+  "name": "claude-toolkit",
+  "owner": {
+    "name": "dzalmans"
+  },
+  "metadata": {
+    "description": "LapMate's Claude Code setup plus curated third-party skills and plugins."
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./plugins/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents \u2014 covering the full software development lifecycle from spec to ship."
+    },
+    {
+      "name": "apple-design",
+      "source": "./plugins/apple-design",
+      "description": "Apple design language and iOS Human Interface Guidelines (principles; translate to your UI stack)."
+    },
+    {
+      "name": "claude-ads",
+      "source": "./plugins/claude-ads",
+      "description": "Claude-first, portable paid-media operations for Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Source-grounded audits, plans, creative workflows, monitoring, experiments, versioned JSON reports, deterministic findings and evidence coverage, an"
+    },
+    {
+      "name": "expo",
+      "source": "./plugins/expo",
+      "description": "Official Expo skills for building, deploying, upgrading, and debugging Expo apps"
+    },
+    {
+      "name": "frontend-design",
+      "source": "./plugins/frontend-design",
+      "description": "Anthropic's frontend-design skill: distinctive, non-templated web UI."
+    },
+    {
+      "name": "google-workspace",
+      "source": "./plugins/google-workspace",
+      "description": "Google Workspace CLI (gws) skills: Gmail, Drive, Docs, Sheets, Calendar, Chat and more, plus recipes and personas. Needs the gws CLI."
+    },
+    {
+      "name": "hallmark",
+      "source": "./plugins/hallmark",
+      "description": "A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. Powered by Together AI."
+    },
+    {
+      "name": "humanizer",
+      "source": "./plugins/humanizer",
+      "description": "Rewrite AI-sounding text so it reads like the writer without changing what it says."
+    },
+    {
+      "name": "hyperframes",
+      "source": "./plugins/hyperframes",
+      "description": "HyperFrames by HeyGen. Write HTML, render video. Compositions, GSAP and runtime adapter animations, captions, voiceovers, audio-reactive visuals, and website capture for HyperFrames."
+    },
+    {
+      "name": "impeccable",
+      "source": "./plugins/impeccable",
+      "description": "Design fluency for frontend development. 1 skill with 24 commands (/impeccable polish, /impeccable audit, /impeccable critique, etc.) and curated anti-pattern detection."
+    },
+    {
+      "name": "lapmate-flutter",
+      "source": "./plugins/lapmate-flutter",
+      "description": "25 official Flutter/Dart skills (architecture, tests, routing, localisation, layout, FFI)."
+    },
+    {
+      "name": "magic-ui",
+      "source": "./plugins/magic-ui",
+      "description": "Magic UI: animated React/Tailwind/shadcn components (marquee, globe, shimmer buttons, text effects, device mocks)."
+    },
+    {
+      "name": "open-seo",
+      "source": "./plugins/open-seo",
+      "description": "Research keywords and competitors, audit sites, track rankings and AI visibility, and use connected Search Console data from your AI assistant."
+    },
+    {
+      "name": "ppt-master",
+      "source": "./plugins/ppt-master",
+      "description": "Generate natively editable PPTX from PDF / DOCX / URL / Markdown."
+    },
+    {
+      "name": "scroll-craft",
+      "source": "./plugins/scroll-craft",
+      "description": "Design and build skills from Nate Herk. Ships scroll-craft: premium scroll-driven interactive landing pages, built on a full design floor (typography, spacing, colour, depth, motion, accessibility) rather than on an animation library."
+    },
+    {
+      "name": "security-audit",
+      "source": "./plugins/security-audit",
+      "description": "Full web-app security audit (OWASP Top 10, CWE, 16 sections, dependency scan, scored report out of 10). Prompt is written in French."
+    },
+    {
+      "name": "stitch-design-md",
+      "source": "./plugins/stitch-design-md",
+      "description": "Google Stitch skills: DESIGN.md generation/extraction, taste-design, design systems, React/shadcn/React Native builds. Several need the Stitch MCP server."
+    },
+    {
+      "name": "stop-slop",
+      "source": "./plugins/stop-slop",
+      "description": "Strips robotic AI writing patterns from prose, with a 5-dimension score."
+    },
+    {
+      "name": "supabase",
+      "source": "./plugins/supabase",
+      "description": "Supabase and Postgres best practices: RLS, migrations, Edge Functions, performance."
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "./plugins/ui-ux-pro-max",
+      "description": "UI/UX design intelligence. Searchable local database with 79 styles, 192 palettes, 74 font pairings, 25 charts, and 22 stacks (React, Next.js, Vue, Nuxt.js, Nuxt UI, Svelte, Astro, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, JavaFX, WPF, WinUI, Avalonia, U"
+    },
+    {
+      "name": "understand-anything",
+      "source": "./plugins/understand-anything",
+      "description": "AI-powered codebase understanding \u2014 analyze, visualize, and explain any project"
+    },
+    {
+      "name": "vercel-agent-skills",
+      "source": "./plugins/vercel-agent-skills",
+      "description": "Vercel Labs agent skills: React/Next.js best practices, web design guidelines, React Native, deploy to Vercel."
+    }
+  ]
+}

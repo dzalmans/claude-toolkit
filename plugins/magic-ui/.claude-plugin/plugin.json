@@ -1,0 +1,6 @@
+{
+  "name": "magic-ui",
+  "description": "Magic UI: animated React/Tailwind/shadcn components (marquee, globe, shimmer buttons, text effects, device mocks).",
+  "repository": "https://github.com/magicuidesign/magicui",
+  "license": "MIT"
+}

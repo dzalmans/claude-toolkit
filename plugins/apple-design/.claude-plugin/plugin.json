@@ -1,0 +1,6 @@
+{
+  "name": "apple-design",
+  "description": "Apple design language and iOS Human Interface Guidelines (principles; translate to your UI stack).",
+  "repository": "https://github.com/rshankras/claude-code-apple-skills",
+  "license": "MIT"
+}

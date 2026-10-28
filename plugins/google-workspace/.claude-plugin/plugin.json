@@ -1,0 +1,6 @@
+{
+  "name": "google-workspace",
+  "description": "Google Workspace CLI (gws) skills: Gmail, Drive, Docs, Sheets, Calendar, Chat and more, plus recipes and personas. Needs the gws CLI.",
+  "repository": "https://github.com/googleworkspace/cli",
+  "license": "Apache-2.0"
+}
