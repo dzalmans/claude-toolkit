@@ -2,5 +2,9 @@
   "name": "security-audit",
   "description": "Full web-app security audit (OWASP Top 10, CWE, 16 sections, dependency scan, scored report out of 10). Prompt is written in French.",
   "repository": "https://github.com/VicKayro/claude-security-audit",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstream: VicKayro/claude-security-audit"
+  }
 }

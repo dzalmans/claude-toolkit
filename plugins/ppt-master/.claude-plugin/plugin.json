@@ -21,5 +21,6 @@
     "office",
     "document-conversion"
   ],
-  "skills": "./"
+  "skills": "./",
+  "version": "1.0.0"
 }

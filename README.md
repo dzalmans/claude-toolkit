@@ -19,7 +19,7 @@ All of LapMate's Claude Code setup plus 18 curated third-party skill packs, pack
 | `expo` | React Native / Expo apps |
 | `hyperframes` | HTML → video |
 | `ppt-master` | Editable PowerPoint from docs |
-| `open-seo`, `claude-ads` | SEO and paid-ads audits |
+| `open-seo`, `paid-ads` (Claude Ads) | SEO and paid-ads audits |
 | `google-workspace` | Gmail/Drive/Docs/Sheets/Calendar via the `gws` CLI |
 
 Reference material (not plugins): `library/awesome-design-md` (~70 brand DESIGN.md files) and `library/design-md-spec`.

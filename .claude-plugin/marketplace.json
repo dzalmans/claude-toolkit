@@ -18,11 +18,6 @@
       "description": "Apple design language and iOS Human Interface Guidelines (principles; translate to your UI stack)."
     },
     {
-      "name": "claude-ads",
-      "source": "./plugins/claude-ads",
-      "description": "Claude-first, portable paid-media operations for Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Source-grounded audits, plans, creative workflows, monitoring, experiments, versioned JSON reports, deterministic findings and evidence coverage, an"
-    },
-    {
       "name": "expo",
       "source": "./plugins/expo",
       "description": "Official Expo skills for building, deploying, upgrading, and debugging Expo apps"
@@ -71,6 +66,11 @@
       "name": "open-seo",
       "source": "./plugins/open-seo",
       "description": "Research keywords and competitors, audit sites, track rankings and AI visibility, and use connected Search Console data from your AI assistant."
+    },
+    {
+      "name": "paid-ads",
+      "source": "./plugins/paid-ads",
+      "description": "Claude-first, portable paid-media operations for Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Source-grounded audits, plans, creative workflows, monitoring, experiments, versioned JSON reports, deterministic findings and evidence coverage, an"
     },
     {
       "name": "ppt-master",

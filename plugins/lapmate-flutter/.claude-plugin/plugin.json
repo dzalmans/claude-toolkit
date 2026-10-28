@@ -2,5 +2,9 @@
   "name": "lapmate-flutter",
   "description": "25 official Flutter/Dart skills (architecture, tests, routing, localisation, layout, FFI).",
   "repository": "https://github.com/flutter/agent-plugins",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstream: flutter/agent-plugins"
+  }
 }

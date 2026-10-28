@@ -2,5 +2,9 @@
   "name": "stop-slop",
   "description": "Strips robotic AI writing patterns from prose, with a 5-dimension score.",
   "repository": "https://github.com/hardikpandya/stop-slop",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstream: hardikpandya/stop-slop"
+  }
 }

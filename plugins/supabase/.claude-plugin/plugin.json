@@ -2,5 +2,9 @@
   "name": "supabase",
   "description": "Supabase and Postgres best practices: RLS, migrations, Edge Functions, performance.",
   "repository": "https://github.com/supabase/agent-skills",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstream: supabase/agent-skills"
+  }
 }

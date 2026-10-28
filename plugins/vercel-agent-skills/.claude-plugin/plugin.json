@@ -2,5 +2,9 @@
   "name": "vercel-agent-skills",
   "description": "Vercel Labs agent skills: React/Next.js best practices, web design guidelines, React Native, deploy to Vercel.",
   "repository": "https://github.com/vercel-labs/agent-skills",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstream: vercel-labs/agent-skills"
+  }
 }

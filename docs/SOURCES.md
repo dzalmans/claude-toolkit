@@ -22,7 +22,7 @@ Copied 2026-10-28 from upstream at the commits below. LapMate-origin skills: see
 | Stop Slop | `stop-slop` | hardikpandya/stop-slop (8da1f03) | MIT | 1 | |
 | Awesome Design MD | `library/awesome-design-md` | VoltAgent/awesome-design-md (3b60532) | MIT | – | Reference files |
 | Design.md | `library/design-md-spec` + `stitch-design-md` | google-labs-code/design.md (6e5da53), google-labs-code/stitch-skills (0337446) | Apache-2.0 | 16 | Several Stitch skills need the Stitch MCP |
-| Claude Ads | `claude-ads` | AgriciDaniel/claude-ads (fc3908e) | MIT | 34 | Python scripts; ad-account changes are capability-gated |
+| Claude Ads | `paid-ads` | AgriciDaniel/claude-ads (fc3908e) | MIT | 34 | Python scripts; ad-account changes are capability-gated |
 | Magic UI | `magic-ui` | magicuidesign/magicui (efe76fc) | MIT | 1 | React/Tailwind/shadcn only. Optional MCP: `npx @magicuidesign/cli@latest install claude` |
 | MiroFish | not copied | 666ghj/MiroFish | AGPL-3.0 | – | A Python multi-agent prediction app, not a skill. Clone separately if wanted |
 | Filee | not found | – | – | – | No matching repo found; needs a link |
